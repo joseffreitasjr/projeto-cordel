@@ -76,6 +76,7 @@ section.imagem{
 
 section.imagem > p{
     display: inline-block;
+    width: 400px;
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.514);
     text-shadow: 1px 1px 0px black;
