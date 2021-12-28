@@ -29,7 +29,7 @@ header > h1{
     padding-top: 50px;
     font-variant: small-caps;
     font-family: var(--fonte2);
-    font-size: 4em;
+    font-size: 10vw;
 }
 
 header > p{
@@ -76,7 +76,6 @@ section.imagem{
 
 section.imagem > p{
     display: inline-block;
-    width: 400px;
     padding: 5px;
     background-color: rgba(0, 0, 0, 0.514);
     text-shadow: 1px 1px 0px black;
