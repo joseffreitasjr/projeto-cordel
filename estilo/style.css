@@ -72,6 +72,7 @@ section.imagem{
     /*inset (para dentro) largura altura espalhamento ampliação cor*/
     background-size: cover;
     background-attachment: fixed;
+    background-position: right center; 
 }
 
 section.imagem > p{
@@ -82,8 +83,7 @@ section.imagem > p{
 }
 
 section#img01{
-    background-image: url('../imagens/background001.jpg');
-    background-position: right center;    
+    background-image: url('../imagens/background001.jpg');   
 }
 
 section#img02{
